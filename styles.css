@@ -41,3 +41,6 @@ li {
 .background {
   transform: translateZ(-1px) scale(2);
 }
+.btn {
+  min-width: 100px;
+}
